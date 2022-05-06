@@ -1,5 +1,4 @@
-Graduando em Ciência da Computação 
-<br>
+Graduando em Ciência da Computação <br>
 competências: 
 - Desenvolvimento web (HTML5, CSS3 e Java Script)
 - Backend (Python), Node.js (básico), Php(Básico)
