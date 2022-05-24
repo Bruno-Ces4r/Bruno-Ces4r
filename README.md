@@ -1,10 +1,10 @@
 Graduando em Ciência da Computação <br>
 competências: 
-- Desenvolvimento web (HTML5, CSS3 e Java Script)
-- Backend (Python), Node.js (básico), Php(Básico)
+- Desenvolvimento web (HTML5, CSS e Java Script)
+- Backend (Python, PHP)
 - SQL
 - Marketing digital
 - Inteligência emocional
 - Redes de Computadores
-- Aperfeiçoamento em andamento ( Power BI) e (Análise de Dados em Python)
+- Aperfeiçoamento em andamento (Análise de Dados em Python)
 - Inglês (Intermediário)
