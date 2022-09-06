@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Ces4r&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Ces4r&layout=compact&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=dangrunger&color=green)
+![](https://komarev.com/ghpvc/?username=Bruno-Ces4r&color=green)
 ##
  
 <div> 
