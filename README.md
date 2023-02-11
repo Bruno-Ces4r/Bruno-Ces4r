@@ -15,5 +15,6 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green" target="_blank">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/angular-ff0000?style=for-the-badge&logo=angular&logoColor=white" target="_blank">
   
   </div>
